@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1432317854 source:f:\computer science\green_checkers\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1446829564 source:e:\computer science\green_checkers\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
